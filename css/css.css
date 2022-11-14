@@ -1,0 +1,53 @@
+.header{
+    text-align: center;
+    padding: 0 auto;
+    margin: 0;
+    margin-bottom: 20px;
+}
+.cari{
+    text-align: right;
+}
+.menu{
+}
+.content{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 60%;
+    margin: 10rem auto 0 auto ;
+}
+.content img{
+      height: 400px;
+}
+.h2{
+    margin: 15px;
+}
+.content p{
+    margin: 15px;
+}
+.price {
+    margin: 15px;
+}
+.btn {
+    margin: 15px;
+}
+.footer p{
+    text-align: center;
+}
+.juduldeskripsi{
+    font-style: italic;
+}
+.baner{
+    text-align: center;
+}
+.sale{
+    color: red;
+}
+.sambutan{
+    color: white;
+    text-align: center;
+    font: italic;
+    background-color: black;
+    padding: 5px;
+}
